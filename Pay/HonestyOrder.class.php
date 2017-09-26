@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Introduction: 商品订单
+ * Introduction: 诚信补单
  * @author: ylb
  * @date: 2017/8/21
  * @email: 344138191@qq.com

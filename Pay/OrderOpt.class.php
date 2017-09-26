@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Introduction: 充值订单
+ * Introduction: 订单操作父类
  * @author: ylb
  * @date: 2017/8/21
  * @email: 344138191@qq.com
